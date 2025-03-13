@@ -66,7 +66,7 @@ export default function Error() {
         <footer>
           <div
             className="w-full text-[#FAF6E3] p-10 text-center 
-               -mt-61 sm:-mt-5 md:-mt-52 lg:-mt-52"
+               -mt-61 sm:-mt-58 md:-mt-52 lg:-mt-52"
             style={{
               backgroundImage: `url(${img1})`,
               backgroundSize: "cover",
